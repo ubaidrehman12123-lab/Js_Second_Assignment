@@ -91,7 +91,7 @@ var userBalance = Number(prompt('Item Price : 200 Rs'));
 
 if (userBalance < 200) {
     alert('Insufficient Balance');
-} else (userBalance >= 200) {
+} else if (userBalance >= 200) {
     alert('Purchase Successful');
 }
 
