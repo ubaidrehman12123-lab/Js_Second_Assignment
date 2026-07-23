@@ -69,7 +69,7 @@ if (userNumber == 100) {
     alert(userNumber + ' Is Equal To 100');
 } else if (userNumber > 100) {
     alert(userNumber + ' Is A Largest Number to 100')
-} else (userNumber < 100) {
+} else if (userNumber < 100) {
     alert(userNumber + ' Is A Smallest Number to 100');
 }
 
